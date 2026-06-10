@@ -195,19 +195,6 @@ Senior Citizens demonstrate a relatively higher churn tendency compared to non-s
 
 ---
 
-## 📷 Dashboard Preview
-
-### Executive Overview
-![Executive Overview](images/executive_overview.png)
-
-### Retention & Risk Analysis
-![Retention Analysis](images/retention_risk_analysis.png)
-
-### Root Cause Analysis
-![Root Cause Analysis](images/root_cause_analysis.png)
-
----
-
 ## 👨‍💻 Author
 
 Satendra Kumar
