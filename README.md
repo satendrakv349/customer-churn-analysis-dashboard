@@ -198,5 +198,6 @@ Senior Citizens demonstrate a relatively higher churn tendency compared to non-s
 ## 👨‍💻 Author
 
 Satendra Kumar
+B.Tech.
 
 Aspiring Data Analyst | SQL | Python | Power BI | Excel
